@@ -2,6 +2,12 @@ GA-Hackathon
 
 <strong>Collabocado</strong>
 
+
+<strong>See our Canva Presentation!</strong>
+
+- [Open Presentation!](https://www.canva.com/design/DAEnjvrF-fQ/view)
+
+
 <strong>Screenshots</strong>
 
 <img src="collabocado.png">
@@ -29,9 +35,6 @@ GA-Hackathon
 
 <strong>Heroku link</strong>
 
-- [Open Website! (Heroku)](https://collabocado.herokuapp.com/)
+- [Open Application Website! (Heroku)](https://collabocado.herokuapp.com/)
 
-See our Canva Designs!
-
-https://www.canva.com/design/DAEnjvrF-fQ/view
 
