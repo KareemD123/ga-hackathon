@@ -4,7 +4,9 @@ GA-Hackathon
 
 <strong>Screenshots</strong>
 
-<img src="athenascreenshot.JPG">
+<img src="collabocado.PNG">
+
+<img src="collabocadodark.PNG">
 
 <strong>Technologies Used</strong>
 
@@ -22,7 +24,7 @@ GA-Hackathon
 
 - Polish Responsive design for desktop and all mobile use
 - Implement Google OAuth 2.0 and Github OAuth
-- 
+- Implement Dark Mode
 
 
 <strong>Heroku link</strong>
