@@ -4,9 +4,9 @@ GA-Hackathon
 
 <strong>Screenshots</strong>
 
-<img src="collabocado.PNG">
+<img src="collabocado.png">
 
-<img src="collabocadodark.PNG">
+<img src="collabocadodark.png">
 
 <strong>Technologies Used</strong>
 
