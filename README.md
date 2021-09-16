@@ -2,6 +2,7 @@ GA-Hackathon
 
 <strong>Collabocado</strong>
 
+Collabocado is an application aimed at helping Tech Professionals get a headstart when entering the Software/Design industry by allowing them to post, find and collaborate on group projects!
 
 <strong>See our Canva Presentation!</strong>
 
